@@ -15,6 +15,6 @@ $phi = 3.14;
 $luas = $r * $r * $phi;
 $keliling = $phi * 2 * $r;
 
-echo "Luas Lingkaran: $luas";
+echo nl2br("Luas Lingkaran: $luas \n");
 echo "Keliling Lingkaran: $keliling";
 ?>
